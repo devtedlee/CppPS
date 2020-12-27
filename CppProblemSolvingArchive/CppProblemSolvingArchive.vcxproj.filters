@@ -19,4 +19,30 @@
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="SWEA\D1\Q2072.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SWEA\D2\Q1204.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SWEA\D2\Q1859.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SWEA\D1\Q2071.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SWEA\D2\Q1926.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SWEA\D1\Q2070.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SWEA\D1\Q1545.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SWEA\D2\Q1954.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
 </Project>

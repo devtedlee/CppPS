@@ -141,6 +141,16 @@
   <ItemGroup>
     <ClCompile Include="CppProblemSolvingArchive.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="SWEA\D2\Q1954.h" />
+    <ClInclude Include="SWEA\D1\Q1545.h" />
+    <ClInclude Include="SWEA\D1\Q2070.h" />
+    <ClInclude Include="SWEA\D2\Q1926.h" />
+    <ClInclude Include="SWEA\D1\Q2071.h" />
+    <ClInclude Include="SWEA\D2\Q1859.h" />
+    <ClInclude Include="SWEA\D2\Q1204.h" />
+    <ClInclude Include="SWEA\D1\Q2072.h" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
