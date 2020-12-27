@@ -44,5 +44,11 @@
     <ClInclude Include="SWEA\D2\Q1954.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="SWEA\D1\Q2046.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SWEA\D1\Q2058.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
