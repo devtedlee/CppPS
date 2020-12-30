@@ -14,7 +14,6 @@ namespace d1
     class Q2046
     {
     public:
-        Q2046();
         void Solution();
     };
 

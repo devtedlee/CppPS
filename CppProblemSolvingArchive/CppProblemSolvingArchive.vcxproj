@@ -142,6 +142,9 @@
     <ClCompile Include="CppProblemSolvingArchive.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="SWEA\D1\Q1936.h" />
+    <ClInclude Include="SWEA\D1\Q2025.h" />
+    <ClInclude Include="SWEA\D1\Q2043.h" />
     <ClInclude Include="SWEA\D2\Q1989.h" />
     <ClInclude Include="SWEA\D2\Q2001.h" />
     <ClInclude Include="SWEA\D1\Q1938.h" />
