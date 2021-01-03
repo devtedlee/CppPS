@@ -125,5 +125,8 @@
     <ClInclude Include="SWEA\D2\Q1288.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="SWEA\D2\Q1970.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
