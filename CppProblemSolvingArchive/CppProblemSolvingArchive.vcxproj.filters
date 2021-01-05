@@ -149,5 +149,8 @@
     <ClInclude Include="SWEA\D2\Q1940.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="SWEA\D2\Q1948.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
