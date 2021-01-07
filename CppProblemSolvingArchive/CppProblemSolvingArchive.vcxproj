@@ -144,6 +144,9 @@
   <ItemGroup>
     <ClInclude Include="Leetcode\Easy\Q1480.h" />
     <ClInclude Include="Leetcode\Easy\Q1672.h" />
+    <ClInclude Include="Leetcode\Easy\Q1431.h" />
+    <ClInclude Include="Leetcode\Easy\Q1470.h" />
+    <ClInclude Include="Leetcode\Easy\Q1108.h" />
     <ClInclude Include="SWEA\D3\Q1206.h" />
     <ClInclude Include="SWEA\D2\Q1928.h" />
     <ClInclude Include="SWEA\D2\Q1948.h" />
