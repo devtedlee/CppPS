@@ -182,5 +182,20 @@
     <ClInclude Include="Leetcode\Easy\Q1678.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="Leetcode\Easy\Q1281.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Leetcode\Easy\Q1342.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Leetcode\Easy\Q1365.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Leetcode\Easy\Q1528.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Leetcode\Easy\Q1603.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
