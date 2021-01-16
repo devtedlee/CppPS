@@ -161,6 +161,7 @@
     <ClInclude Include="Leetcode\Easy\Q1389.h" />
     <ClInclude Include="Leetcode\Easy\Q1684.h" />
     <ClInclude Include="Leetcode\Easy\Q1221.h" />
+    <ClInclude Include="Leetcode\Easy\Q1486.h" />
     <ClInclude Include="SWEA\D3\Q1206.h" />
     <ClInclude Include="SWEA\D2\Q1928.h" />
     <ClInclude Include="SWEA\D2\Q1948.h" />
