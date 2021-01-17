@@ -218,5 +218,8 @@
     <ClInclude Include="Leetcode\Easy\Q1486.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="Leetcode\Easy\Q1662.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
